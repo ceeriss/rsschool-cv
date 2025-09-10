@@ -1,1 +1,1 @@
-https://ceeriss.github.io/rsschool-cv/cv
+https://ceeriss.github.io/rsschool-cv/
