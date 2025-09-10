@@ -1,2 +1,1 @@
-# rsschool-cv
-for RS
+https://ceeriss.github.io/rsschool-cv/cv
