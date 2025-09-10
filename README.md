@@ -1,2 +1,1 @@
-# rsschool-cv
-for RS
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
